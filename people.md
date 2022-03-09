@@ -4,4 +4,4 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+Currently shadowing Dr. Dan Bercovici's organic small mollecules synthesis research lab. 
