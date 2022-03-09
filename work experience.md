@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work Experiene
+title: Work Experience
 permalink: /work experience/
 ---
 
