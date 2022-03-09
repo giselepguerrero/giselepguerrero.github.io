@@ -17,4 +17,4 @@ Born and raised in Burbank, California. I love to go out and hang with friends. 
 
 ### Resume
 
-![Alternative Text]( {{ site.baseurl }}/images/ME!.jpeg )
+
