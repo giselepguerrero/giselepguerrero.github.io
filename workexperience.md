@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Experience
-permalink: /work experience/
+permalink: /workexperience/
 ---
 
 1. General chemistry learning assistant for Cal Poly's chemistry department  
