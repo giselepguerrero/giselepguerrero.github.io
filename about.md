@@ -14,3 +14,6 @@ Born and raised in Burbank, California. I love to go out and hang with friends. 
 ### Contact me
 
 [gpguerre@calpoly.edu](mailto:gpguerre@calpoly.edu)
+
+### Resume
+
